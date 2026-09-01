@@ -11,3 +11,7 @@ Requirements:
 1) The unit must have a battery life of one week.
 2) The unit must weigh less than five pounds and be no thicker than one inch.
 3) The unit must be self-contained in one package, so no external antenna
+
+
+Code Base: 
+Most likely C (common in micro controllers)
